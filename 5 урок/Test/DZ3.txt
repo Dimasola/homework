@@ -1,0 +1,5 @@
+Ivanov  22
+Morozov  17
+Novikov  30
+Karasova  12
+Silin  16
